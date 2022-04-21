@@ -24,9 +24,7 @@ Syntax highlighted code block
 ```
 ```
 ## 设置链接
-```
-[a click](a website)
-```
-[Markdown语法]（https://markdown.com.cn/basic-syntax/）
+
+[Markdown 语 法]（https://markdown.com.cn/basic-syntax/）
 
 
