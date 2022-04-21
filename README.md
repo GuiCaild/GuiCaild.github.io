@@ -4,7 +4,7 @@
 ```markdown
 格式：
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
