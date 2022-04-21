@@ -1,7 +1,8 @@
 ## Welcome to GuiCaild Blog GitHub Pages
 
-设置一个Markdown：(Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for)
+设置一个Markdown：(Markdown is a lightweight and easy-to-use syntax for styling your writing.)
 ```markdown
+格式：
 ```markdown
 Syntax highlighted code block
 
