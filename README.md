@@ -1,46 +1,40 @@
-# Welcome to GuiCaild Blog GitHub Pages
-## [Markdown 语 法](https://markdown.com.cn/basic-syntax/)
-  Markdown is a lightweight and easy-to-use syntax for styling your writing. 
-  Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。它使用易读易写的纯文本格式编写文档，可与HTML混编，可导出 HTML、PDF 以及本身的 .md 格式的文件。因简洁、高效、易读、易写，Markdown被大量使用，如Github、Wikipedia、简书等。 
-# 基本语法简述
-## Markdown 标题
-创建标题，请在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。 
-例如，添加三个 # 表示创建一个三级标题 (<h3>) (例如：### My Header)，一般1到6个#。 
-  <img width="253" alt="image" src="https://user-images.githubusercontent.com/92379348/164389602-121a46e4-c313-43e4-849c-a817eb88d356.png">  
-  
-## Markdown 段落
-要创建段落，请使用空白行将一行或多行文本进行分隔。 
-  ![image](https://user-images.githubusercontent.com/92379348/164390231-aa26d4a4-48de-4660-93d8-80772734c45e.png)
-在一行的末尾添加两个或多个空格，然后按回车键,即可创建一个换行.   
-## Markdown 字体
-  粗体：要加粗文本，请在单词或短语的前后各添加两个星号（**）或下划线（_）。
-  斜体：要用斜体显示文本，请在单词或短语前后添加一个星号（*）或下划线（_）。
-  粗斜体：要同时用粗体和斜体突出显示文本，请在单词或短语的前后各添加三个星号（***）或下划线(___)。
-##设置一个Markdown：
-()
-```markdown
-格式：
-```markdown
-Syntax highlighted code block  
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-```
-## 设置链接
-
-[Markdown 语 法](https://markdown.com.cn/basic-syntax/)
+# **welcome to my blog about Tool**
+这个网站主要是我收藏的一些宝藏网站和一些在线电子书。
+# **代码语言类**（code language）
+# 综合类
+## [**菜鸟 语言类参考教程**](https://www.runoob.com)
+教程是菜鸟教程专门为需要从零开始了解各类语言的软件程序员打造的，以及可以找到大多数编程的语言网站。
+## [**蝴蝶 语言类参考教程**](https://www.jc2182.com/category/cankao.html)
+教程覆盖各类前端后端以及计算开放工具，以及各类系统的综合性计算机语言相关的学习网站。
+## [**W3school 网络类参考教程**](https://www.w3school.com.cn/html/html5_intro.asp)
+W3school的参考网站技术手册涵盖了网站技术的方方面面。（HTML、CSS、XML、JavaScript、PHP、SQL）。
+# 具体
+## [**HTML 教程**](https://developer.mozilla.org/en-US/docs/Web/HTML)
+mozilla的一本有关HTML的一本电子参考书。
+## [**Linux C编程一站式学习**](https://akaedu.github.io/book/)
+宋劲杉, 北京亚嵌教育研究中心出版的一本免费电子书。
+## [**Beautiful Soup 文档**](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/)
+这篇文档Python介绍了BeautifulSoup4中所有主要特性,并且有小例子.让我来向你展示它适合做什么,如何工作,怎样使用,如何达到你想要的效果,和处理异常情况。
+## [**Pandas 文档**](https://pandas.pydata.org/docs/getting_started)
+这篇文档用以Pandas工具分析数据处理。
+## [**Numpy 文档**](https://numpy.org/doc/stable/)
+NumPy(Numerical Python) 是 Python 语言的一个扩展程序库，支持大量的维度数组与矩阵运算，此外也针对数组运算提供大量的数学函数库。
+## [**Matplotlib文档**](https://matplotlib.org/stable/)
+这篇文档用以 Matplotlib ，如何用于在 Python 中创建静态、动画和交互式可视化，总而言之如何用 Python 绘图。
+## [**Makefile 文档**](https://seisman.github.io/how-to-write-makefile/introduction.html)
+Seisman工作室出品的有关介绍如何写Linux中制作Makefile的文档。
+## [**菜鸟 Shell教程**](https://www.runoob.com/linux/linux-shell.html)
+菜鸟编写的Shell 脚本（shell script）的教程。
+## [**UNIX/LINUX 教程**](https://www.jc2182.com/unix/unix-linux-jiaocheng.html)
+蝴蝶教程出版的一本关于UNIX/Linux的教程。
+## [**Fortran77和90/95编程入门**]()
+中国科技大学天文与应用物理系，丁泽军编的一份有关Fortran教程的一本电子书。
+## [**Fortran资源中心**](http://micro.ustc.edu.cn/Fortran/)
+这里收集了这种有关Fortran的PDF资料和文档。
+## [**MPI—Fortran编程文档**](https://cndaqiang.github.io/2019/02/27/mpi-fortran/)
+MPI编程有关Fortran的使用。
+## [**GPU并行编程CUBA文档**](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html)
+英伟达出品的有关GPU编程的参考文档。CUDA® is a parallel computing platform and programming model invented by NVIDIA.
+## [** **]()
 
 
